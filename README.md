@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cindyshixinyi
 - 👀 I’m interested in Web development, IOS development and more... 
-- 🌱 I’m currently learning Javascript, react Java and swift. 
+- 🌱 I’m currently learning Javascript, react Java and Swift. 
 - 📫 Email: cindyshixinyi@gmail.com
 
 <!---
